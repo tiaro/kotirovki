@@ -1,1 +1,14 @@
-xH9kIcLJxoDHh6w3d1CIR1IcmujXPjxVRS6q5HrvJJpLJJr5PovyfT9HQSs9gzqlTGJVWDDpmnrNN7enlDnuhG9bkqHXJYNaAwE3R4zd8U7n2KMLyYUkwYauf6jscFToqewgvUbCbqMlouK3H6rVo0X1R4U3kiY6
+{
+  "BTCUSDT": {
+    "symbol": "BTCUSDT",
+    "price": "77138.45000000"
+  },
+  "ETHUSDT": {
+    "symbol": "ETHUSDT",
+    "price": "2407.35000000"
+  },
+  "SOLUSDT": {
+    "symbol": "SOLUSDT",
+    "price": "99.40000000"
+  }
+}
