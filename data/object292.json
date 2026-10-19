@@ -1,1 +1,14 @@
-{"data":[{"id":"bitcoin","rank":"1","symbol":"BTC","name":"Bitcoin","supply":"19769278.0000000000000000","maxSupply":"21000000.0000000000000000","marketCapUsd":"1340074073543.9033474712846458","volumeUsd24Hr":"9582460422.2374513124376643","priceUsd":"67785.6861309706579811","changePercent24Hr":"0.7799320721853887","vwap24Hr":"67366.9018055375226330","explorer":"https://blockchain.info/"},{"id":"ethereum","rank":"2","symbol":"ETH","name":"Ethereum","supply":"120387999.5248750300000000","maxSupply":null,"marketCapUsd":"316078432153.2585321546725763","volumeUsd24Hr":"4888966122.5577615194683713","priceUsd":"2625.4978353382240124","changePercent24Hr":"0.2324374756237789","vwap24Hr":"2613.8465718269344866","explorer":"https://etherscan.io/"},{"id":"solana","rank":"5","symbol":"SOL","name":"Solana","supply":"469830617.3087941400000000","maxSupply":null,"marketCapUsd":"72087236400.4562395564362215","volumeUsd24Hr":"586458751.3383430834357290","priceUsd":"153.4323940261160447","changePercent24Hr":"0.2205054575238268","vwap24Hr":"151.1427762819034579","explorer":"https://explorer.solana.com/"}],"timestamp":1729246113402}
+{
+  "BTCUSDT": {
+    "symbol": "BTCUSDT",
+    "price": "82743.83000000"
+  },
+  "ETHUSDT": {
+    "symbol": "ETHUSDT",
+    "price": "2434.01000000"
+  },
+  "SOLUSDT": {
+    "symbol": "SOLUSDT",
+    "price": "105.72000000"
+  }
+}
