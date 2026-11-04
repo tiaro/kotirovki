@@ -1,0 +1,14 @@
+{
+  "BTCUSDT": {
+    "symbol": "BTCUSDT",
+    "price": "78480.75000000"
+  },
+  "ETHUSDT": {
+    "symbol": "ETHUSDT",
+    "price": "2321.70000000"
+  },
+  "SOLUSDT": {
+    "symbol": "SOLUSDT",
+    "price": "93.05000000"
+  }
+}
